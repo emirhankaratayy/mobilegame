@@ -5,7 +5,8 @@ beceri mini-oyunlarını (şut, çalım, gol) birleştiren mobil futbol oyunu.
 
 ## Teknoloji
 
-- **Engine:** Unity 6.3 LTS, Universal Render Pipeline (URP)
+- **Engine:** Unity 6.6, Universal Render Pipeline (URP)
+  (Mağazaya çıkmadan önce o dönemin güncel LTS sürümüne geçmeyi değerlendireceğiz.)
 - **Dil:** C#
 - **Platformlar:** Android + iOS
 - **Görsel stil:** 2.5D (3D modeller, sabit/hafif açılı kamera)
@@ -13,7 +14,7 @@ beceri mini-oyunlarını (şut, çalım, gol) birleştiren mobil futbol oyunu.
 ## Kuruluma katılmak için
 
 1. [Unity Hub](https://unity.com/download) indirip kur.
-2. Unity Hub > Installs > **Unity 6.3 LTS** sürümünü kur. Modül seçim ekranında
+2. Unity Hub > Installs > **Unity 6.6** sürümünü kur. Modül seçim ekranında
    **Android Build Support** ve **iOS Build Support**'u işaretlemeyi unutma.
 3. Repoyu klonla:
    ```
